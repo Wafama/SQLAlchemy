@@ -1,19 +1,18 @@
 # SQLAlchemy Core Analysis of E-Commerce Dataset
 
 ## Introduction
-This repository contains a Jupyter notebook designed to practice basic SQLAlchemy Core functions using a custom E-Commerce dataset. SQLAlchemy Core provides a way to interact directly with SQL expressions and database structures, allowing for fine-grained control over database queries and operations.
+This repository contains a Jupyter notebook designed to practice basic SQLAlchemy Core functions using a custom E-Commerce dataset. SQLAlchemy Core can interact directly with SQL expressions and database structures, allowing for fine-grained control over database queries and operations.
 
-The core focus of this notebook is to demonstrate how to create tables, insert, update, and delete records in a SQLite database using SQLAlchemy Core. The E-Commerce dataset is used for practical exercises in database manipulation.
+This notebook's core focus is on demonstrating how to create tables, insert, update, and delete records in a SQLite database using SQLAlchemy Core. The E-Commerce dataset is used for practical exercises in database manipulation.
 
 ## Contents
 - Ecommerce_SQLAlchemy_Core.ipynb: Jupyter notebook with SQLAlchemy Core operations on the E-Commerce dataset.
-Prerequisites
 
+## Prerequisites
 To run the notebook, you need to have the following software installed:
 - Python 3.11
 - Jupyter Notebook
-- Required Python packages:
-- pandas==2.1.4 sqlalchemy==2.0.25
+- Required Python packages: pandas==2.1.4 sqlalchemy==2.0.25
 
 
 ## Usage
